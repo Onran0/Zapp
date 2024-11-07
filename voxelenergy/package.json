@@ -1,0 +1,10 @@
+{
+    "id": "voxelenergy",
+    "title": "Voxel Energy",
+    "creator": "Onran",
+    "version": "Beta 1.4.1",
+    "description": "Adds a electric elements in game",
+    "dependencies": [
+        "voxelhelp"
+    ]
+}

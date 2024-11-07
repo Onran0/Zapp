@@ -1,0 +1,19 @@
+{
+    "model": "custom",
+    "model-primitives": {
+        "aabbs":[
+            [0.0, 0.75, 0.0, 1.0, 0.25, 1.0,
+      "sticky_piston_pusher_side",
+      "sticky_piston_pusher_side",
+      "piston_front",
+      "sticky_piston_front",
+      "sticky_piston_pusher_side",
+      "sticky_piston_pusher_side"  ],
+            [0.35, -0.28, 0.35, 0.3, 1.03, 0.3, "piston_pillar"]
+        ]
+    },
+    "light-passing": true,
+    "rotation": "pipe",
+    "picking-item": "voxelenergy:sticky_piston_idle.item",
+    "hidden": true
+}

@@ -1,0 +1,12 @@
+{
+    "texture-faces": [
+        "logic_inverter_side_off",
+        "logic_inverter_side_off",
+        "logic_inverter_side_off",
+        "hole_deactivated",
+        "logic_inverter_side_off",
+        "logic_inverter_side_off"
+    ],
+    "light-passing": true,
+    "rotation": "pipe"
+}

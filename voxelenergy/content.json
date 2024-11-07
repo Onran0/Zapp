@@ -1,0 +1,35 @@
+{
+  "blocks": [
+    "charged_voxel",
+    "volatile_voxel_off",
+    "volatile_voxel_on",
+    "wire_on",
+    "wire_off",
+    "direction_wire_off",
+    "direction_wire_on",
+    "wire_crossroad",
+    "logic_inverter_on",
+    "logic_inverter_off",
+    "energy_lamp_on",
+    "energy_lamp_off",
+    "piston_idle",
+    "piston_active",
+    "piston_pusher",
+    "sticky_piston_active",
+    "sticky_piston_pusher",
+    "sticky_piston_idle",
+    "timer_5t",
+    "timer_10t",
+    "timer_1t",
+    "timer_20t",
+    "lever_off",
+    "lever_on",
+    "button_off",
+    "button_on",
+    "pressure_plate_off",
+    "pressure_plate_on"
+  ],
+  "items": [
+    "lever_off.item"
+  ]
+}

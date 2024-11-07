@@ -1,0 +1,12 @@
+{
+	"texture-faces": [
+		"volatile_voxel_off",
+		"volatile_voxel_off",
+		"volatile_voxel_off",
+		"volatile_voxel_front",
+		"volatile_voxel_off",
+		"volatile_voxel_off",
+	],
+	"light-passing": true,
+	"rotation": "pipe"
+}

@@ -1,0 +1,16 @@
+{
+    "texture-faces":
+    [
+        "pointing_activated",
+        "pointing_activated",
+        "hole_activated",
+        "hole_activated",
+        "pointing_activated",
+        "pointing_activated"
+    ],
+    "light-passing": true,
+    "rotation": "pipe",
+    "sky-light-passing": true,
+    "picking-item": "voxelenergy:direction_wire_off.item",
+    "hidden": true
+}

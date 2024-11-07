@@ -1,0 +1,12 @@
+{
+    "texture-faces": [
+        "sticky_piston_side",
+        "sticky_piston_side",
+        "metal",
+        "sticky_piston_front",
+        "sticky_piston_side",
+        "sticky_piston_side"
+    ],
+    "light-passing": true,
+    "rotation": "pipe"
+}

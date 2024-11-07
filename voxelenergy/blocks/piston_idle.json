@@ -1,0 +1,12 @@
+{
+    "texture-faces": [
+        "piston_side",
+        "piston_side",
+        "metal",
+        "piston_front",
+        "piston_side",
+        "piston_side"
+    ],
+    "light-passing": true,
+    "rotation": "pipe"
+}

@@ -1,0 +1,14 @@
+{
+    "texture-faces": [
+        "logic_inverter_side_on",
+        "logic_inverter_side_on",
+        "logic_inverter_side_on",
+        "hole_activated",
+        "logic_inverter_side_on",
+        "logic_inverter_side_on"
+    ],
+    "light-passing": true,
+    "picking-item": "voxelenergy:logic_inverter_off.item",
+    "rotation": "pipe",
+    "hidden": true
+}

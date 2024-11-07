@@ -1,0 +1,12 @@
+{
+    "texture-faces": [
+        "timer_1t",
+        "timer_1t",
+        "timer_1t",
+        "hole_blue",
+        "timer_1t",
+        "timer_1t"
+    ],
+    "light-passing": true,
+    "rotation": "pipe"
+}

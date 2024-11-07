@@ -1,0 +1,7 @@
+{
+    "texture": "energy_lamp_on",
+    "light-passing": true,
+    "emission": [ 15, 15, 15 ],
+    "picking-item": "voxelenergy:energy_lamp_off.item",
+    "hidden": true
+}

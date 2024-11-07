@@ -1,0 +1,14 @@
+{
+    "texture-faces":
+    [
+        "pointing_deactivated",
+        "pointing_deactivated",
+        "hole_deactivated",
+        "hole_deactivated",
+        "pointing_deactivated",
+        "pointing_deactivated"
+    ],
+    "light-passing": true,
+    "rotation": "pipe",
+    "sky-light-passing": true
+}

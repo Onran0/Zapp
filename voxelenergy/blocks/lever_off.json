@@ -1,0 +1,14 @@
+{
+    "model": "custom",
+    "model-primitives": {
+        "aabbs": [
+            [0.25, 0.0, 0.15, 0.5, 0.15, 0.75, "deactivated", "deactivated", "deactivated", "lever_off", "deactivated", "deactivated"],
+            [0.37, 0.05, 0.25, 0.25, 0.25, 0.25, "deactivated"]
+        ]
+    },
+    "light-passing": true,
+    "sky-light-passing": true,
+    "obstacle": false,
+    "hitbox": [0.25, 0.0, 0.15, 0.5, 0.15, 0.75],
+    "rotation": "pipe"
+}

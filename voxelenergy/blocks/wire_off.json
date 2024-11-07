@@ -1,0 +1,26 @@
+{
+    "light-passing": true,
+    "sky-light-passing": true,
+    "model": "custom",
+      "model-primitives": {
+        "aabbs": [
+          [
+            0.375,
+            0.375,
+            0.375,
+            0.25,
+            0.25,
+            0.25,
+            "wire_off"
+          ]
+        ]
+    },
+    "hitbox": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+    ]
+}

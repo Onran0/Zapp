@@ -1,0 +1,9 @@
+{
+    "texture": "deactivated",
+    "model": "aabb",
+    "light-passing": true,
+    "sky-light-passing": true,
+    "obstacle": false,
+    "hitbox": [0.2, 0.0, 0.2, 0.6, 0.15, 0.6],
+    "rotation": "pipe",
+}

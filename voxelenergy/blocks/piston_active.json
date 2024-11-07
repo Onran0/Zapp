@@ -1,0 +1,16 @@
+{
+    "texture-faces": [
+      "piston_active_side",
+      "piston_active_side",
+      "metal",
+      "piston_active_front",
+      "piston_active_side",
+      "piston_active_side"  
+    ],
+    "model": "aabb",
+    "hitbox": [0.0, 0.0, 0.0, 1.0, 0.75, 1.0] ,
+    "light-passing": true,
+    "rotation": "pipe",
+    "picking-item": "voxelenergy:piston_idle.item",
+    "hidden": true
+}

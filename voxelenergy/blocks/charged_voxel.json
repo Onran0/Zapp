@@ -1,0 +1,5 @@
+{
+    "texture": "charged_voxel",
+    "light-passing": true,
+    "emission": [ 0 , 2 , 0 ]
+}

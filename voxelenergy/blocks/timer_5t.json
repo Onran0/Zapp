@@ -1,0 +1,14 @@
+{
+    "texture-faces": [
+        "timer_5t",
+        "timer_5t",
+        "timer_5t",
+        "hole_blue",
+        "timer_5t",
+        "timer_5t"
+    ],
+    "light-passing": true,
+    "rotation": "pipe",
+    "hidden": true,
+    "picking-item": "voxelenergy:timer_1t.item"
+}
